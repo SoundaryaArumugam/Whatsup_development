@@ -1,0 +1,9 @@
+THIS IS WHATSUP CODE:
+
+1. Profile Page code
+
+2. Chat screen Code
+
+3.Last seen code
+
+4. Attachments(Image,Audio,Video) code
